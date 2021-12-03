@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:background="@drawable/blue_bg"
+        />
+
+    <EditText
+        android:id="@+id/txtlogin"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:fontFamily="@font/poppins_regular"
+        android:hint="Votre Login"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:paddingLeft="17dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:textSize="22dp" />
+
+    <EditText
+        android:id="@+id/txtpwd"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:hint="Mot de passe"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:paddingLeft="17dp"
+        android:paddingTop="15dp"
+        android:textSize="22dp"
+        android:paddingBottom="15dp" />
+
+    <Button
+        android:id="@+id/btnConn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:backgroundTint="@color/blue_azur"
+        android:paddingBottom="10dp"
+        android:rotationX="2"
+        android:text="Connexion"
+        android:textSize="22dp" />
+
+</LinearLayout>

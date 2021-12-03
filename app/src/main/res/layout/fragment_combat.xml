@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.gallery.GalleryFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="111dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bg2eumeu" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:padding="1dp"
+            android:text="Balla Gaye2 VS Eumeu Sene. Dimanche 29 Septemble 2021"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="200dp"
+            android:layout_height="111dp"
+            android:layout_gravity="center"
+            android:src="@drawable/amamodu" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:padding="1dp"
+            android:text="Ama Baldé VS Modou Lô. Dimanche 15 Decembre 2021"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="200dp"
+            android:layout_height="111dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bg2gr" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:padding="1dp"
+            android:text="Balla Gaye2 VS Gris Bordeau. Dimanche 22 Decembre 2021"
+            android:textSize="20dp" />
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="200dp"
+            android:layout_height="111dp"
+            android:layout_gravity="center"
+            android:src="@drawable/rrgg" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:padding="1dp"
+            android:text="Reuk Reuk VS GouyGui.Dimanche 29 Decembre 2021"
+            android:textSize="20dp" />
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="200dp"
+            android:layout_height="111dp"
+            android:layout_gravity="center"
+            android:src="@drawable/siteupapasow" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:padding="1dp"
+            android:text="Sitteu VS Papa Sow \nMercredi 01 Janvier 2022"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+</ScrollView>

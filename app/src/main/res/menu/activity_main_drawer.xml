@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_combat"
+            android:icon="@drawable/ic_sport"
+            android:title="@string/menu_combat" />
+        <item
+            android:id="@+id/nav_achat"
+            android:icon="@drawable/ic_ricket"
+            android:title="@string/menu_achat" />
+        <item
+            android:id="@+id/nav_result"
+            android:icon="@drawable/ic_result"
+            android:title="@string/menu_reultat" />
+        <item
+            android:id="@+id/nav_lutteur"
+            android:icon="@drawable/ic_checklist"
+            android:title="@string/menu_lutteur" />
+        <item
+            android:id="@+id/nav_aide"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+
+    </group>
+</menu>

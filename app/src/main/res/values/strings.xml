@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ARENE BI</string>
+    <string name="Connexion">Connexion</string>
+    <string name="erreur">Veuillez remplir tous les champs</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">
+    La lutte sénégalaise (làmb en wolof1, njom en sérère) est un sport traditionnel très populaire au Sénégal, tout particulièrement dans les régions du Cayor and Baol et de la Casamance. On le pratique aussi en Gambie.
+Sport de contact, la lutte sénégalaise intègre aussi la boxe, d\'où l\'appellation de « lutte avec frappe ». Le lutteur peut à la fois donner des coups et recourir au corps à corps pour terrasser son adversaire2.
+    </string>
+    <string name="desc2">
+        En sus de sa dimension sportive, elle intègre une dimension culturelle et folklorique (bakk), qui met en œuvre au travers d\'animations la tradition culturelle sénégalaise.
+Au départ sport amateur, la lutte sénégalaise est devenue un sport professionnel qui attire de plus en plus de jeunes sportifs et de spectateurs3. Les cachets des lutteurs s\'élèvent à des dizaines de millions de FCFA. Les lutteurs sont regroupés en écuries et adhèrent à la fédération (Comité national de gestion de la lutte communément appelé CNG) qui est l\'organe de gestion de ce sport4.
+    </string>
+
+    <string name="menu_home">Presentation</string>
+    <string name="menu_combat">Combats à venir</string>
+    <string name="menu_reultat">Résultat Combats</string>
+    <string name="menu_achat">Achat Ticket</string>
+    <string name="menu_stade">Stades</string>
+    <string name="menu_lutteur">Lutteurs et Palmares</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="help">Aide</string>
+</resources>
